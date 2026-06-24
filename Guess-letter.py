@@ -53,7 +53,7 @@ elif num == 25 :
     letter = "y"
 elif num == 26 :
     letter = "z"
-print(f"(For checker's sake, the letter is - {letter})")
+print(f"(For checker's sake, the letter is: {letter})")
 while True :
     user = input("Guess the letter: \n").lower()
     tries += 1

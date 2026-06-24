@@ -1,6 +1,6 @@
 import random
 num = int(random.randint(1,100))
-print(f"(For the marker's sake, the number is - {num})")
+print(f"(For the marker's sake, the number is: {num})")
 tries = 0
 hi = True
 print("guess the number")
